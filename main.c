@@ -3,5 +3,6 @@
 int main(void)
 {
     afficherRegles();
+    jouerPrototype();
     return 0;
 }
